@@ -50,18 +50,19 @@ Active Directory
  SMB / NTFS / DFS
 ```
 
-## Tasks Completed
+## Tasks
 
-| Task | Area | Result |
-|---|---|---|
-| 01 | DC01 Preparation | ✅ |
-| 02 | Active Directory | ✅ |
-| 03 | DNS | ✅ |
-| 04 | DHCP | ✅ |
-| 05 | Group Policy | ✅ |
-| 06 | File Server & Permissions | ✅ |
+| # | Task | Status |
+|---:|---|:---:|
+| 01 | [DC01 Preparation](documentation/01-dc01-preparation.md) | ✅ |
+| 02 | [Domain Controller Promotion](documentation/02-domain-controller-promotion.md) | ✅ |
+| 03 | [Active Directory](documentation/03-active-directory.md) | ✅ |
+| 04 | [DNS](documentation/04-dns.md) | ✅ |
+| 05 | [DHCP](documentation/05-dhcp.md) | ✅ |
+| 06 | [Group Policy](documentation/06-group-policy.md) | ✅ |
+| 07 | [File Server & Permissions](documentation/07-file-server-permissions.md) | ✅ |
 
-Detailed implementation notes are available in [Documentation](documentation/).
+Detailed implementation notes: [Documentation](documentation/).
 
 ## Core Skills Demonstrated
 
