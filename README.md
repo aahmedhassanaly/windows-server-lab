@@ -1,8 +1,8 @@
-# Windows Server Infrastructure Lab
+# Windows Server  Lab
 
-**Portfolio Priority: #1 — Core Windows Infrastructure**
+**Portfolio Priority: #1 — Core Windows **
 
-A practical Windows Server infrastructure lab focused on **Active Directory, DNS, DHCP, Group Policy, file services, permissions, and troubleshooting**.
+A practical Windows Server  lab focused on **Active Directory, DNS, DHCP, Group Policy, file services, permissions, and troubleshooting**.
 
 ## Business Scenario
 
